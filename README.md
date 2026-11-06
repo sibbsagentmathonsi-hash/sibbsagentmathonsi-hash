@@ -1,36 +1,59 @@
 ## Hi, I'm Sibusiso 👋
 
-Graduate Data Analyst | SQL • Python • Excel • Power BI
+Diploma in Information and Communication Technology graduate with a strong interest in Data Analytics, Business Intelligence, and Reporting.
 
-Open to graduate, internship, and junior data analyst roles.
+I am building a professional foundation in data analysis and dashboarding, with a focus on turning raw data into clear, actionable insights. I am currently developing my skills in Excel, SQL, and Power BI while strengthening my understanding of data cleaning, reporting, and business analysis.
+
+### Career focus
+- Data Analyst
+- Business Intelligence Analyst
+- Reporting Analyst
+- Junior Data Analyst
+- Data Support / Analyst Intern
 
 ### About me
-I turn raw data into business insights through data cleaning, analysis, and dashboarding. I enjoy solving business problems with SQL, Python, Excel, and Power BI.
+I am passionate about using data to help organizations make better decisions, track performance, and identify opportunities for improvement. I enjoy working with data to uncover patterns, measure trends, and present insights in a way that is easy to understand and act on.
 
-### Skills
-- SQL
-- Python (pandas, numpy, matplotlib, seaborn)
-- Excel
-- Power BI
-- Data cleaning and wrangling
-- Exploratory data analysis
-- KPI reporting
+### Skills and tools
+- Excel: formulas, pivot tables, charts, data cleaning, basic reporting
+- SQL: querying, filters, sorting, grouping, joins, and data exploration
+- Power BI: dashboard design, KPI reporting, visual storytelling
+- Data cleaning and preparation
+- Data validation and accuracy checks
+- Data interpretation and insight generation
+- Reporting and presentation of findings
+- Business problem analysis
 
-### Portfolio focus
-- Sales performance analysis
-- Customer churn analysis
-- Marketing funnel reporting
-- SQL business analysis projects
-- Dashboard and KPI storytelling
+### Current learning path
+- SQL for data analysis and reporting
+- Excel analytics and dashboard development
+- Power BI for business insights and data visualization
+- Data cleaning and transformation techniques
+- Python fundamentals for data analysis (currently learning)
+- Data storytelling and stakeholder communication
 
-### Projects
-- Sales dashboard and revenue analysis
-- Customer retention and churn insights
-- E-commerce / business data SQL analysis
-- Data cleaning and exploratory analysis in Python
+### Projects and portfolio
+I am actively building my analytics portfolio through practical projects focused on:
+- data cleaning and transformation
+- KPI and performance reporting
+- trend analysis and business insight generation
+- dashboard creation and data storytelling
+- SQL-based business analysis
+- Excel-based reporting and analysis
+
+This includes work related to the Data Analytics project, where I apply analytical thinking to real-world datasets and business scenarios.
+
+### Education
+Diploma in Information and Communication Technology
+
+### Why analytics?
+I am interested in analytics because it combines problem-solving, technology, and business understanding. I enjoy exploring data, identifying patterns, and communicating findings in a way that supports decision-making and operational improvement.
+
+### Open to opportunities
+I am currently looking for graduate, internship, or junior opportunities in Data Analytics, Business Intelligence, Reporting, and Data Support roles where I can apply my growing analytical skills and continue learning in a professional environment.
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/agent-sibusiso-mathonsi-75923a3a0
 - Email: sibbs.agentmathonsi@gmail.com
 
-> I’m passionate about using data to support better decisions, improve performance, and communicate insights clearly.
+> I am eager to grow in the analytics field, contribute to data-driven decision-making, and continue developing practical, business-focused analytical skills.
